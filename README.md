@@ -24,3 +24,7 @@ memcached_log_file: /var/log/memcached.log
 memcached_log_verbosity: ""
 
 ```
+
+# Development
+
+Please check [development guide](DEVELOPMENT.md) for details about developing and testing this role.

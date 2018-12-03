@@ -16,7 +16,7 @@
 - name: Install Memcached.
   apt:
     pkg: memcached
-    state: installed
+    state: present
   register: memcached_install
 
 # Configure Memcached.
